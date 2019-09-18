@@ -4,5 +4,5 @@ This repository main goal provide practice notebook to those learner who want to
 
 | Sr No | Project                                                      |
 | ----- | ------------------------------------------------------------ |
-| 1.    | **[Regression Boston Housing Price Prediction](Project_1_Regression_Boston_Housing_Price_Prediction_Using_Pytorch.ipynb)** |
+| 1.    | **[Regression Boston Housing Price Prediction](https://github.com/ashishpatel26/Pytorch-Foundation-Project-with-real-world-dataset/tree/master/Project1-Regresson_Boston_House Price)** |
 
